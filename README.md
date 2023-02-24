@@ -6,4 +6,4 @@
 
 <img width="300px" src="https://guiatech.net/wp-content/uploads/2019/11/linguagem-c.png">
 
-Treino simples em C, utilizando o edidor dev c++.
+Treino simples em C, utilizando o editor dev c++.
